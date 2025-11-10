@@ -4,11 +4,12 @@
 
 // 1. Cole aqui o objeto de configuração que você copiou do Firebase
 const firebaseConfig = {
-  apiKey: "SUA_API_KEY_AQUI",
-  authDomain: "SEU_AUTH_DOMAIN_AQUI",
-  projectId: "SEU_PROJECT_ID_AQUI",
-  // ... e o resto das chaves
-  appId: "SEU_APP_ID_AQUI"
+  apiKey: "AIzaSyCDd-B5zx0PE_a2QntHbqdM_06tqOogVac",
+  authDomain: "login-b-ec228.firebaseapp.com",
+  projectId: "login-b-ec228",
+  storageBucket: "login-b-ec228.firebasestorage.app",
+  messagingSenderId: "945895851369",
+  appId: "1:945895851369:web:4852aa615bf095d16129f8"
 };
 
 // 2. Inicializa o Firebase
